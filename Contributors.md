@@ -4674,3 +4674,4 @@
 - [Graham Wright](https://github.com/Reebster)
 - [Francesco Penasa](https://github.com/FrancescoPenasa)
 - [Connor Dovell] (https://github.com/connordovell)
+- [Ricardo Godoy] (https://github.com/ricardofagodoy)
